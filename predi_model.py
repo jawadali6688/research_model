@@ -3,7 +3,7 @@ import pandas as pd
 import openpyxl
 import os
 
-GOOGLE_API_KEY = "AIzaSyDqPU2L0i05_FgjI31N8yAVc_G6vxHhVIc"  
+GOOGLE_API_KEY = ""  
 genai.configure(api_key=GOOGLE_API_KEY)
 
 
